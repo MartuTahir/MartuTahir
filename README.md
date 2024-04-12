@@ -1,8 +1,7 @@
 ### --------------------------------------------- Hola, soy Martina Tahir👋---------------------------------------------
 <br>
+
 ![Portada](https://drive.google.com/uc?export=view&id=1su1mxXQzr60yZrkZBzm0ULnMXwUKIMzc)
-
-
 
 <!--
 **MartuTahir/MartuTahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
