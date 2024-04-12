@@ -1,4 +1,4 @@
-### -------------------------------------------- Hola, soy Martina Tahir👋😄---------------------------------------------
+### -------------------------------------------- Hola, soy Martina Tahir👋😄------------------------------------------
 <br>
 
 ![Portada](https://drive.google.com/uc?export=view&id=1su1mxXQzr60yZrkZBzm0ULnMXwUKIMzc)
