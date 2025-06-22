@@ -5,9 +5,9 @@
 
 ```js
 const martu = {
-  technologies: 'web',
-  code: [ JS, HTML, CSS ],
-  tools: [ ReactJS, BS, MUI, Git ]
+  technologies: ['web', 'desktop']
+  code: [ JS, HTML, CSS, C#, T-SQL ],
+  tools: [ 'ReactJS', 'BS', 'MUI', 'Git', '.NET Framework' ]
 }
 ```
 #### 🌍 **Puedes encontrarme en:**
