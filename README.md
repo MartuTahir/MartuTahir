@@ -1,7 +1,7 @@
 ### -------------------------------------------- Hola, soy Martina Tahir👋😄------------------------------------------
 <br>
 
-![Portada](https://postimg.cc/Wd5z2TwH)
+![Portada](https://i.postimg.cc/0Nsw0NMP/1763642502781-e-1769097600-v-beta-t-B46RGAEWZ1k-PS4p-MNiqn-IB5t-On-ASkfc-Zpz-Hm-VPr4VJo.jpg)
 
 ```js
 const martu = {
